@@ -16,7 +16,7 @@ I am always open to exploring new opportunities and projects. If you are interes
 
 - 👨‍💻 Check out my [repositories](https://github.com/EkaAbashidze?tab=repositories) for all of my projects!
 
-### 📫 - How to reach me:
+<h2 align="center"> 📫 - How to reach me: </h2>
   
 <p align="center">
 <a href="https://www.linkedin.com/in/ekaterine-abashidze-812b8266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekaterineabashidze" height="30" width="40" /></a>
@@ -26,7 +26,7 @@ I am always open to exploring new opportunities and projects. If you are interes
 
 </p>
 
-### Stacks:
+<h2 align="center"> Stacks: </h2>
 
 <p align="center">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -48,7 +48,7 @@ I am always open to exploring new opportunities and projects. If you are interes
 </p>
 
 
-### Statistics:
+<h2 align="center"> Statistics: </h2>
 
 <p align="center">
   <a href="https://github.com/ekaabashidze">
