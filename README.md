@@ -13,7 +13,7 @@ I am always open to exploring new opportunities and projects. If you are interes
 
 - 👨‍💻 Check out my <a href="https://github.com/EkaAbashidze?tab=repositories"><b>repositories</b></a> for all of my projects!
 
-- 📫 get in touch with me via email: eka.abashidze@gmail.com
+- 📫 get in touch with me via email: <b>eka.abashidze@gmail.com</b>
 
 <h2 align="center"> Contact: </h2>
   
