@@ -3,9 +3,12 @@
 
 <h4>I started my programming journey in September 2022, and since then, I've quickly acquired skills in various programming languages and technologies such as HTML, CSS, styled-components, tailwindcss, Javascript, Typescript, React.js.
 <br />
+<br />
 I'm currently a tutor at Bitcamp, the largest developers' community in Georgia, helping aspiring developers grow and achieve their goals. I'm also an intern web developer at Redberry, an official Laravel and Vue partner agency, where I work on exciting and challenging projects using PHP, MySQL, Laravel, and Vue.js.
 <br />
+<br />
 I am always open to exploring new opportunities and projects. If you are interested in collaborating with me, feel free to contact me.</h4> 
+<br />
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekaabashidze" alt="ekaabashidze" /> </p>
 
@@ -15,20 +18,17 @@ I am always open to exploring new opportunities and projects. If you are interes
 
 ### 📫 - How to reach me:
   
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/ekaterine-abashidze-812b8266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekaterineabashidze" height="30" width="40" /></a>
 <a href="https://www.facebook.com/eka.abashidze10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ekaabashidze" height="30" width="40" /></a>
 <a href="https://www.instagram.com/eka_abashidze/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eka_abashidze" height="30" width="30" /></a>
-<a href="mailto:eka.abashidze@gmail.com">
-  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" height="30" width="30">
-</a>
 
 
 </p>
 
 ### Stacks:
 
-
+<p align="center">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
@@ -39,6 +39,13 @@ I am always open to exploring new opportunities and projects. If you are interes
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="styled-components" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue.js" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40" style="filter: invert(47%) sepia(75%) saturate(655%) hue-rotate(206deg) brightness(93%) contrast(91%);"/>
+</a>
+<a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm" width="40" height="40"/>
+</a>
+</p>
 
 
 ### Statistics:
