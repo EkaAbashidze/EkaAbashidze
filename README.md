@@ -11,7 +11,7 @@ I am always open to exploring new opportunities and projects. If you are interes
 
 - 🌱 I’m currently learning **Laravel / Vue.js**
 
-- 👨‍💻 Check out my [repositories](https://github.com/EkaAbashidze?tab=repositories) for all of my projects!
+- 👨‍💻 Check out my **[repositories]**(https://github.com/EkaAbashidze?tab=repositories) for all of my projects!
 
 <h2 align="center"> Contact: </h2>
   
