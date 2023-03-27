@@ -38,13 +38,28 @@ I am always open to exploring new opportunities and projects. If you are interes
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue.js" width="40" height="40"/> </a>
 
 
-### Statistics
+### Statistics:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekaabashidze&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Eka Abashidze Github Stats">
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekaabashidze&layout=compact&theme=dark&bg_color=0A0A0A" alt="Eka Abashidze Top Languages"/>
-<br />
+<p align="center">
+  <a href="https://github.com/ekaabashidze">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekaabashidze&theme=radical&border=7F3FBF&background=0D1117" alt="Eka Abashidze's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ekaabashidze">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekaabashidze&theme=radical" alt="Eka Abashidze's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+  <a href="https://github.com/ekaabashidze"><img alt="Eka Abashidze's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ekaabashidze&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/ekaabashidze"><img alt="Eka Abashidze's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ekaabashidze&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+![Eka Abashidze's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ekaabashidze&custom_title=Eka%20Abashidze's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=CDB4DB&line=CDB4DB&point=CDB4DB&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 
 ----
 Credit: (https://github.com/EkaAbashidze)
