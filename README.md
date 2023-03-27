@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Eka Abashidze</h1>
 <h3 align="center">Welcome to my profile!</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekaabashidze" alt="ekaabashidze" /> </p>
 <h4>I started my programming journey in September 2022, and since then, I've quickly acquired skills in various programming languages and technologies such as HTML, CSS, styled-components, tailwindcss, Javascript, Typescript, React.js.
 <br />
 <br />
@@ -8,15 +8,12 @@ I'm currently a tutor at Bitcamp, the largest developers' community in Georgia, 
 <br />
 <br />
 I am always open to exploring new opportunities and projects. If you are interested in collaborating with me, feel free to contact me.</h4> 
-<br />
-<br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekaabashidze" alt="ekaabashidze" /> </p>
 
 - 🌱 I’m currently learning **Laravel / Vue.js**
 
 - 👨‍💻 Check out my [repositories](https://github.com/EkaAbashidze?tab=repositories) for all of my projects!
 
-<h2 align="center"> 📫 - How to reach me: </h2>
+<h2 align="center"> Contact: </h2>
   
 <p align="center">
 <a href="https://www.linkedin.com/in/ekaterine-abashidze-812b8266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekaterineabashidze" height="30" width="40" /></a>
@@ -26,7 +23,7 @@ I am always open to exploring new opportunities and projects. If you are interes
 
 </p>
 
-<h2 align="center"> Stacks: </h2>
+<h2 align="center"> Stacks and Tools: </h2>
 
 <p align="center">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
