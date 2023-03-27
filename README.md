@@ -20,7 +20,7 @@ I am always open to exploring new opportunities and projects. If you are interes
 <div align="center">
   
 <a href="https://www.linkedin.com/in/ekaterine-abashidze-812b8266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekaterineabashidze" height="30" width="40" /></a>
-<a href="https://www.facebook.com/eka.abashidze10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ekaabashidze" height="30" width="40" style: "margin-right: 5px" /></a>
+<a href="https://www.facebook.com/eka.abashidze10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ekaabashidze" height="30" width="40" margin-right: "5" /></a>
 <a href="https://www.instagram.com/eka_abashidze/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eka_abashidze" height="30" width="30" /></a>
 
 </div>
