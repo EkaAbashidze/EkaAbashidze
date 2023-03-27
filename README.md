@@ -42,9 +42,8 @@ I am always open to exploring new opportunities and projects. If you are interes
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.svg" alt="Visual Studio Code" width="40" height="40">
 </a>
-<a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm" width="40" height="40"/>
-</a>
+<a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg" alt="PhpStorm" width="40" height="40"/></a>
+  
 </p>
 
 
