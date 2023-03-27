@@ -2,19 +2,19 @@
 <h3 align="center">Welcome to my profile!</h3>
 
 <h4>I started my programming journey in September 2022, and since then, I've quickly acquired skills in various programming languages and technologies such as HTML, CSS, styled-components, tailwindcss, Javascript, Typescript, React.js.
-
+<br />
 I'm currently a tutor at Bitcamp, the largest developers' community in Georgia, helping aspiring developers grow and achieve their goals. I'm also an intern web developer at Redberry, an official Laravel and Vue partner agency, where I work on exciting and challenging projects using PHP, MySQL, Laravel, and Vue.js.
-
+<br />
 I am always open to exploring new opportunities and projects. If you are interested in collaborating with me, feel free to contact me.</h4> 
-
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekaabashidze" alt="ekaabashidze" /> </p>
 
 - 🌱 I’m currently learning **Laravel / Vue.js**
 
-- 👨‍💻 All of my projects are available at (https://github.com/EkaAbashidze?tab=repositories)
+- 👨‍💻 Check out my [repositories](https://github.com/EkaAbashidze?tab=repositories) for all of my projects!
 
-
-<h3 align="left">📫 - How to reach me:</h3>
+### 📫 - How to reach me:
+  
 <p align="left">
 <a href="https://www.linkedin.com/in/ekaterine-abashidze-812b8266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekaterineabashidze" height="30" width="40" /></a>
 <a href="https://www.facebook.com/eka.abashidze10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ekaabashidze" height="30" width="40" /></a>
@@ -40,7 +40,11 @@ I am always open to exploring new opportunities and projects. If you are interes
 
 ### Statistics
 
-![Eka Abashidze's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekaabashidze&show_icons=true&theme=radical)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekaabashidze&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Eka Abashidze Github Stats">
+<br />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekaabashidze&layout=compact&theme=dark&bg_color=0A0A0A" alt="Eka Abashidze Top Languages"/>
+<br />
 
 ----
 Credit: (https://github.com/EkaAbashidze)
