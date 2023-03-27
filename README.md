@@ -18,8 +18,11 @@ I am always open to exploring new opportunities and projects. If you are interes
 <p align="left">
 <a href="https://www.linkedin.com/in/ekaterine-abashidze-812b8266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekaterineabashidze" height="30" width="40" /></a>
 <a href="https://www.facebook.com/eka.abashidze10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ekaabashidze" height="30" width="40" /></a>
-<a href="https://www.instagram.com/eka_abashidze/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eka_abashidze" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:eka.abashidze@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" height="30" width="30" /></a>
+<a href="https://www.instagram.com/eka_abashidze/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eka_abashidze" height="30" width="30" /></a>
+<a href="mailto:eka.abashidze@gmail.com">
+  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" height="30" width="30">
+</a>
+
 
 </p>
 
@@ -57,9 +60,6 @@ I am always open to exploring new opportunities and projects. If you are interes
   <a href="https://github.com/ekaabashidze"><img alt="Eka Abashidze's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ekaabashidze&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
-![Eka Abashidze's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ekaabashidze&custom_title=Eka%20Abashidze's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=CDB4DB&line=CDB4DB&point=CDB4DB&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
 
 ----
 Credit: (https://github.com/EkaAbashidze)
