@@ -9,7 +9,7 @@ I'm currently a mentor at Bitcamp, the largest developers' community in Georgia,
 <br />
 I am always open to exploring new opportunities and projects. If you are interested in collaborating with me, feel free to contact me.</h4> 
 
-- 🌱 I’m currently learning **Laravel / Vue.js**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 Check out my <a href="https://github.com/EkaAbashidze?tab=repositories"><b>repositories</b></a> for all of my projects
 
