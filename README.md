@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Eka Abashidze</h1>
 <h3 align="center">Welcome to my profile!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekaabashidze" alt="ekaabashidze" /> </p>
-<h4>I started my programming journey in September 2022, and since then, I've quickly acquired skills in various programming languages and technologies such as HTML, CSS, styled-components, tailwindcss, Javascript, Typescript, React.js.
+<h4>I started my programming journey in September 2022, and since then, I've quickly acquired skills in various programming languages and technologies such as HTML, CSS, styled-components, tailwindcss, Javascript, Typescript, React.js, Vue.js, and PHP/Laravel.
 <br />
 <br />
-I'm currently a tutor at Bitcamp, the largest developers' community in Georgia, helping aspiring developers grow and achieve their goals. I'm also an intern web developer at Redberry, an official Laravel and Vue partner agency, where I work on exciting and challenging projects using PHP, MySQL, Laravel, and Vue.js.
+I'm currently a mentor at Bitcamp, the largest developers' community in Georgia, helping aspiring developers grow and achieve their goals. I as an intern full-stack web developer at Redberry, an official Laravel and Vue partner agency for 4 months.
 <br />
 <br />
 I am always open to exploring new opportunities and projects. If you are interested in collaborating with me, feel free to contact me.</h4> 
