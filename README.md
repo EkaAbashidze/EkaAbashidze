@@ -4,7 +4,7 @@
 <h4>I started my programming journey in September 2022, and since then, I've quickly acquired skills in various programming languages and technologies such as HTML, CSS, styled-components, tailwindcss, Javascript, Typescript, React.js, Vue.js, and PHP/Laravel.
 <br />
 <br />
-I'm currently a mentor at Bitcamp, the largest developers' community in Georgia, helping aspiring developers grow and achieve their goals. I was an intern full-stack web developer at Redberry, an official Laravel and Vue partner agency for 4 months.
+I have been mentoring at Bitcamp, the largest developers' community in Georgia, helping aspiring developers grow and achieve their goals. I was an intern full-stack web developer at Redberry, an official Laravel and Vue partner agency for 4 months.
 <br />
 <br />
 I am always open to exploring new opportunities and projects. If you are interested in collaborating with me, feel free to contact me.</h4> 
